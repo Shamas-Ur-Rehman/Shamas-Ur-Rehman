@@ -1,8 +1,13 @@
 "# Shamas-Ur-Rehman" 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Shamas+Ur+Rehman!;Backend+Developer+%7C+Golang+%7C+Python+%F0%9F%94%A5;Let's+build+something+scalable!+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Shamas+Ur+Rehman!;Backend+Developer+%7C+Golang+%7C+Python+%F0%9F%94%A5;Let's+build+something+scalable!+🚀"
+    alt="Typing animation: Hey, I'm Shamas Ur Rehman — Backend Developer | Golang | Python — Let's build something scalable!"
+    title="Hey 👋, I'm Shamas Ur Rehman!"
+  />
 </p>
+
 
 <!-- Socials -->
 <p align="center">
